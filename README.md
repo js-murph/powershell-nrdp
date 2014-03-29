@@ -9,11 +9,13 @@ Known Issues:
 None
 
 Patch Notes:  
-v1.2:
-- Fixed a bug that prevented sending OK status (Thanks Fara)  
-v1.1:
+v1.2:  
+- Fixed a bug that prevented sending OK status (Thanks Fara) 
+
+v1.1:  
 - Powershell NRDP no longer declares that it was written in Perl.  
-v1.0:
+
+v1.0:  
 - First release.
 
 Usage:  
